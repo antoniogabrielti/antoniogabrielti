@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<img src="https://i.imgur.com/11LWiA8.png"/>
+
+## Antônio Gabriel Fernandes Miranda 👋
+
+Hi, I'm Antônio and I'm Software Developer, I love to develop solutions using programming. In this account of mine you will find my playgroud of technologies that I like to program. Feel free to open a pull request or contact me, Welcome✨!!!
 
 <!--
 **antoniogabrielti/antoniogabrielti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
